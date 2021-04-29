@@ -38,7 +38,7 @@ public class WebDriverUtils {
 		switch (browserName) {
 		case "chrome":
 			log.info("Creating chrome driver instance...");
-			System.setProperty("webdriver.chrome.driver", "C:\\standalone\\chromedriver_win32 (4)\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "D:\\selenium_session\\PageObjectModel-master\\chromedriver.exe");
 			driver.set( new ChromeDriver());
 			log.info("Chrome driver instance is created");
 			break;
