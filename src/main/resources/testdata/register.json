@@ -1,0 +1,12 @@
+{
+	"createAccount": {
+		"firstName" : "vijay",
+		"lastName" : "Ithape",
+		"email" : "test@yahoo.com",
+		"telephone" : "9909099090",
+		"password" :"abc",
+		"confirmPassword" :"abc",
+		"radioNewsLetter" :"1"
+	}
+
+}
