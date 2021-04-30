@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.crm.qa.testcases.TestSerachProduct">
+      <class name="com.crm.qa.testcases.RegisterAccountTest">
         <methods>
-          <include name="setUp"/>
-          <include name="testAddProductToWishList"/>
+          <include name="createAccount"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- com.crm.qa.testcases.TestSerachProduct -->
+      </class> <!-- com.crm.qa.testcases.RegisterAccountTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

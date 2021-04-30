@@ -13,7 +13,7 @@ import com.google.gson.JsonSyntaxException;
 public class TestUtil {
 	
 	
-	public static final String TESTDATA_FOLDER_PATH = "C:\\Azure_Devops\\PageObjectModel-master\\src\\main\\resources\\testdata\\";
+	public static final String TESTDATA_FOLDER_PATH = "./src/main/resources/testdata/";
 	//Method to read test data for test case.
 	/**
 	 * 
